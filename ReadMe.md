@@ -1,5 +1,47 @@
 # 💫 About Me:
-I am a data analyst at CommerceIQ<br>I'm passionate about data science and AI<br>Let's connect for mutual growth
+🚀 Nihar Ranjan Manthan | Data Analyst & Python Developer
+🔹 Passionate about Data Science, Machine Learning, NLP, and Automation
+🔹 Enthusiast in Deep Learning, Transformers, LLMs, and AI-driven solutions
+🔹 Experienced in Building Scalable ML Pipelines & Data Engineering
+
+💡 About Me:
+👨‍💻 Data Analyst | Python Developer with a strong foundation in data analysis, automation, and AI/ML
+📊 I love solving complex problems by leveraging data-driven insights & machine learning models
+📌 Focused on AI-driven automation, predictive analytics, and deep learning applications
+
+🛠 Tech Stack:
+💻 Languages: Python 🐍 | Java ☕ | SQL 🗄
+📊 ML & AI: TensorFlow | PyTorch | Scikit-learn | NLP | LLMs (GPT, BERT) 🤖
+🛠 Tools & Frameworks: PySpark ⚡ | Flask 🌍 | Spring Boot 🏗 | Snowflake ❄ | Databricks 🔥
+☁ Cloud & DevOps: AWS ☁ | Jenkins ⚙ | GitHub Actions 🚀
+📊 Visualization: Tableau 📈 | Matplotlib | Seaborn
+
+🚀 Projects:
+📌 🔍 Finding Duplicate Products on Amazon
+➡ Built a deep learning-based image classification model using CNNs (VGG16)
+➡ Integrated OCR (Tesseract) & NER (spaCy) for text-based feature extraction
+
+📌 📉 Customer Retention Prediction
+➡ Designed a Neural Network with LSTM for predicting churn rates
+➡ Applied Softmax activation, Batch Normalization, and Dropout to improve accuracy
+
+📌 💳 Credit Card Fraud Detection
+➡ Developed an XGBoost & Gaussian Naive Bayes model for fraud classification
+➡ Used feature engineering & anomaly detection techniques
+
+📌 💎 Diamond Price Prediction
+➡ Built regression models (Linear Regression, Decision Trees) for price estimation
+➡ Leveraged feature engineering & statistical analysis
+
+📫 Connect With Me:
+🔗 LinkedIn: linkedin.com/in/nihar-ranjan-manthan
+🐙 GitHub: github.com/Nihar1204
+📊 Kaggle: kaggle.com/yourusername
+📩 Email: niharranjan12042002@gmail.com
+
+🔥 “Turning Data into Actionable Insights & AI into Scalable Solutions!” 🚀
+
+
 
 
 ## 🌐 Socials:
