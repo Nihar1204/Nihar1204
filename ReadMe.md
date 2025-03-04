@@ -9,13 +9,9 @@
 📌 Focused on AI-driven automation, predictive analytics, and deep learning applications
 
 🚀 Projects:
-📌 🔍 Finding Duplicate Products on Amazon
+📌 🔍 Amazon Duplicate Listing Detection 
 ➡ Built a deep learning-based image classification model using CNNs (VGG16)
 ➡ Integrated OCR (Tesseract) & NER (spaCy) for text-based feature extraction
-
-📌 📉 Customer Retention Prediction
-➡ Designed a Neural Network with LSTM for predicting churn rates
-➡ Applied Softmax activation, Batch Normalization, and Dropout to improve accuracy
 
 📌 💳 Credit Card Fraud Detection
 ➡ Developed an XGBoost & Gaussian Naive Bayes model for fraud classification
