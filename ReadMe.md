@@ -1,10 +1,10 @@
-🚀 Nihar Ranjan Manthan | Data Analyst @ CommerceIQ
+🚀 Nihar Ranjan Manthan | Data Scientist @ CommerceIQ
 🔹 Passionate about Data Science, Machine Learning, NLP, and Automation
 🔹 Enthusiast in Deep Learning, Transformers, LLMs, and AI-driven solutions
 🔹 Experienced in Building Scalable ML Pipelines & Data Engineering
 
 💡 About Me:
-👨‍💻 Data Analyst | Python Developer with a strong foundation in data analysis, automation, and AI/ML
+👨‍💻 Data Scientist with a strong foundation in data analysis, automation, and AI/ML
 📊 I love solving complex problems by leveraging data-driven insights & machine learning models
 📌 Focused on AI-driven automation, predictive analytics, and deep learning applications
 
